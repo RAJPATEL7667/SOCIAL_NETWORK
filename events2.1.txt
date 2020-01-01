@@ -1,0 +1,30 @@
+P:Mr. PotatoHead:Ages three and up! It's on my box! Ages three and up! I'm not supposed to be babysitting Princess Drool!
+A:Sergeant
+A:Soldier1
+A:Soldier2
+A:Soldier3
+A:Soldier4
+A:Soldier5
+A:Soldier6
+F:Andy:Sergeant
+F:Woody:Sergeant
+F:Sergeant:Soldier1
+F:Sergeant:Soldier2
+F:Sergeant:Soldier3
+F:Sergeant:Soldier4
+F:Sergeant:Soldier5
+F:Sergeant:Soldier6
+A:Buzz Lightyear
+F:Buzz Lightyear:Rex
+F:Buzz Lightyear:Bo Peep
+F:Buzz Lightyear:Lenny
+F:Buzz Lightyear:Slinky Dog
+P:Buzz Lightyear:Greetings, I am Buzz Lightyear. I come in peace.:2
+P:Buzz Lightyear:To infininty and beyond!
+P:Bo Peep:I've got my moving buddy
+P:Woody:And another thing, *stop* with this *spaceman* thing! It's getting on my nerves.
+P:Buzz Lightyear:How dare you open a spaceman's helmet on an uncharted planet! My eyeballs could've been sucked from their sockets!
+P:Woody:BUZZ, LOOK, AN ALIEN!
+P:Buzz Lightyear:You are a sad, strange little man, and you have my pity.
+P:Woody:Oh, yeah? Well, good riddance, ya loony!
+P:Slinky Dog: It's too short. We need more monkeys!
